@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yourrepositoryname/static/css/main.0328bf18.chunk.css",
+    "main.js": "/yourrepositoryname/static/js/main.31cb6fa6.chunk.js",
+    "main.js.map": "/yourrepositoryname/static/js/main.31cb6fa6.chunk.js.map",
+    "runtime-main.js": "/yourrepositoryname/static/js/runtime-main.80fb993b.js",
+    "runtime-main.js.map": "/yourrepositoryname/static/js/runtime-main.80fb993b.js.map",
+    "static/css/2.818011ed.chunk.css": "/yourrepositoryname/static/css/2.818011ed.chunk.css",
+    "static/js/2.0a9c7240.chunk.js": "/yourrepositoryname/static/js/2.0a9c7240.chunk.js",
+    "static/js/2.0a9c7240.chunk.js.map": "/yourrepositoryname/static/js/2.0a9c7240.chunk.js.map",
+    "static/js/3.79b5df2a.chunk.js": "/yourrepositoryname/static/js/3.79b5df2a.chunk.js",
+    "static/js/3.79b5df2a.chunk.js.map": "/yourrepositoryname/static/js/3.79b5df2a.chunk.js.map",
+    "index.html": "/yourrepositoryname/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/yourrepositoryname/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.0328bf18.chunk.css.map": "/yourrepositoryname/static/css/main.0328bf18.chunk.css.map",
+    "static/js/2.0a9c7240.chunk.js.LICENSE.txt": "/yourrepositoryname/static/js/2.0a9c7240.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80fb993b.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.0a9c7240.chunk.js",
+    "static/css/main.0328bf18.chunk.css",
+    "static/js/main.31cb6fa6.chunk.js"
+  ]
+}
