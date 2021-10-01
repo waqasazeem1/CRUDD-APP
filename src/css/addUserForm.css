@@ -35,3 +35,12 @@ input[type="text"] {
     background-color: tomato;
     color: white;
   }
+
+
+ @media all and (max-width:480px){
+   .left{
+     width:300px;
+     padding: 20px;
+
+   }
+ }

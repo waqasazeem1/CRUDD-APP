@@ -31,7 +31,7 @@ function UserTable(props) {
           ):(
             <tr>
               <td>
-                <h2>No user</h2>
+                <h2 style={{color:'white'}}>No user..</h2>
               </td>
             </tr>
           )}
